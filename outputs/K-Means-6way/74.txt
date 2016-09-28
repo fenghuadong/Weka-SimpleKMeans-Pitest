@@ -1,0 +1,139 @@
+
+kMeans
+======
+
+Number of iterations: 1
+
+Initial starting points (farthest first):
+
+Cluster 0: 58,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.086766,f,2.0135,f,108.319345,f,0.995,f,110.469649,f,0,other,negative
+Cluster 1: 62,M,f,f,f,t,f,f,f,t,f,f,f,f,f,t,t,13,t,0.8,t,83,t,0.81,t,103,f,0,SVHC,compensated_hypothyroid
+
+
+Final cluster centroids:
+                                           Cluster#
+Attribute                     Full Data           0
+                               (3772.0)    (3772.0)
+===================================================
+age                                  54          54
+                              +/-20.085   +/-20.085
+
+sex                                   F           F
+  F                         2480.0 ( 65%)2480.0 ( 65%)
+  M                         1142.0 ( 30%)1142.0 ( 30%)
+  missing                   150.0 (  3%)150.0 (  3%)
+
+on thyroxine                          f           f
+  f                         3308.0 ( 87%)3308.0 ( 87%)
+  t                         464.0 ( 12%)464.0 ( 12%)
+
+query on thyroxine                    f           f
+  f                         3722.0 ( 98%)3722.0 ( 98%)
+  t                          50.0 (  1%) 50.0 (  1%)
+
+on antithyroid medication             f           f
+  f                         3729.0 ( 98%)3729.0 ( 98%)
+  t                          43.0 (  1%) 43.0 (  1%)
+
+sick                                  f           f
+  f                         3625.0 ( 96%)3625.0 ( 96%)
+  t                         147.0 (  3%)147.0 (  3%)
+
+pregnant                              f           f
+  f                         3719.0 ( 98%)3719.0 ( 98%)
+  t                          53.0 (  1%) 53.0 (  1%)
+
+thyroid surgery                       f           f
+  f                         3719.0 ( 98%)3719.0 ( 98%)
+  t                          53.0 (  1%) 53.0 (  1%)
+
+I131 treatment                        f           f
+  f                         3713.0 ( 98%)3713.0 ( 98%)
+  t                          59.0 (  1%) 59.0 (  1%)
+
+query hypothyroid                     f           f
+  f                         3538.0 ( 93%)3538.0 ( 93%)
+  t                         234.0 (  6%)234.0 (  6%)
+
+query hyperthyroid                    f           f
+  f                         3535.0 ( 93%)3535.0 ( 93%)
+  t                         237.0 (  6%)237.0 (  6%)
+
+lithium                               f           f
+  f                         3754.0 ( 99%)3754.0 ( 99%)
+  t                          18.0 (  0%) 18.0 (  0%)
+
+goitre                                f           f
+  f                         3738.0 ( 99%)3738.0 ( 99%)
+  t                          34.0 (  0%) 34.0 (  0%)
+
+tumor                                 f           f
+  f                         3676.0 ( 97%)3676.0 ( 97%)
+  t                          96.0 (  2%) 96.0 (  2%)
+
+hypopituitary                         f           f
+  f                         3771.0 ( 99%)3771.0 ( 99%)
+  t                           1.0 (  0%)  1.0 (  0%)
+
+psych                                 f           f
+  f                         3588.0 ( 95%)3588.0 ( 95%)
+  t                         184.0 (  4%)184.0 (  4%)
+
+TSH measured                          t           t
+  t                         3403.0 ( 90%)3403.0 ( 90%)
+  f                         369.0 (  9%)369.0 (  9%)
+
+TSH                                 1.6         1.6
+                             +/-24.5215  +/-24.5215
+
+T3 measured                           t           t
+  t                         3003.0 ( 79%)3003.0 ( 79%)
+  f                         769.0 ( 20%)769.0 ( 20%)
+
+T3                                  2.2         2.2
+                              +/-0.8274   +/-0.8274
+
+TT4 measured                          t           t
+  t                         3541.0 ( 93%)3541.0 ( 93%)
+  f                         231.0 (  6%)231.0 (  6%)
+
+TT4                                 106         106
+                             +/-35.6042  +/-35.6042
+
+T4U measured                          t           t
+  t                         3385.0 ( 89%)3385.0 ( 89%)
+  f                         387.0 ( 10%)387.0 ( 10%)
+
+T4U                                   1           1
+                              +/-0.1955   +/-0.1955
+
+FTI measured                          t           t
+  t                         3387.0 ( 89%)3387.0 ( 89%)
+  f                         385.0 ( 10%)385.0 ( 10%)
+
+FTI                                 110         110
+                             +/-33.0897  +/-33.0897
+
+TBG measured                          f           f
+  f                         3772.0 (100%)3772.0 (100%)
+
+TBG                             missing     missing
+                                     --          --
+
+referral source                   other       other
+  SVHC                      386.0 ( 10%)386.0 ( 10%)
+  other                     2201.0 ( 58%)2201.0 ( 58%)
+  SVI                       1034.0 ( 27%)1034.0 ( 27%)
+  STMW                      112.0 (  2%)112.0 (  2%)
+  SVHD                       39.0 (  1%) 39.0 (  1%)
+
+Class                          negative    negative
+  negative                  3481.0 ( 92%)3481.0 ( 92%)
+  compensated_hypothyroid   194.0 (  5%)194.0 (  5%)
+  primary_hypothyroid        95.0 (  2%) 95.0 (  2%)
+  secondary_hypothyroid       2.0 (  0%)  2.0 (  0%)
+
+
+
+
+

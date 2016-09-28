@@ -1,0 +1,57 @@
+
+kMeans
+======
+
+Number of iterations: 1
+Sum of within cluster distances: 12964.65393754252
+
+Initial starting points (canopy):
+
+T2 radius: 2.440     
+T1 radius: 3.050     
+
+Cluster 0: 52.119194,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.066211,t,2.013539,t,108.359128,t,0.995152,t,110.447094,f,0,other,negative,{3555} <0,1>
+Cluster 1: 45.542289,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.12424,f,2.022577,f,108.679351,f,0.995,f,110.469649,f,0,other,negative,{201} <0,1>
+
+
+Reduced number of distance calculations by using canopies.
+
+Final cluster centroids:
+                                         Cluster#
+Attribute                    Full Data          0
+                              (3772.0)   (3772.0)
+=================================================
+age                                 54         54
+sex                                  F          F
+on thyroxine                         f          f
+query on thyroxine                   f          f
+on antithyroid medication            f          f
+sick                                 f          f
+pregnant                             f          f
+thyroid surgery                      f          f
+I131 treatment                       f          f
+query hypothyroid                    f          f
+query hyperthyroid                   f          f
+lithium                              f          f
+goitre                               f          f
+tumor                                f          f
+hypopituitary                        f          f
+psych                                f          f
+TSH measured                         t          t
+TSH                                1.6        1.6
+T3 measured                          t          t
+T3                                 2.2        2.2
+TT4 measured                         t          t
+TT4                                106        106
+T4U measured                         t          t
+T4U                                  1          1
+FTI measured                         t          t
+FTI                                110        110
+TBG measured                         f          f
+TBG                            missing    missing
+referral source                  other      other
+Class                         negative   negative
+
+
+
+

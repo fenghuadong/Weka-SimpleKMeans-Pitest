@@ -1,0 +1,56 @@
+
+kMeans
+======
+
+Number of iterations: 3
+Sum of within cluster distances: 13390.6164926086
+
+Initial starting points (k-means++):
+
+Cluster 0: 69,F,t,f,f,f,f,f,f,f,f,f,f,f,f,f,t,1.5,t,1.8,t,136,t,0.92,t,149,f,?,other,negative
+Cluster 1: 70,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.7,t,0.9,t,73,f,?,f,?,f,?,other,negative
+
+Reduced number of distance calculations by using canopies.
+Canopy T2 radius: 2.440     
+Canopy T1 radius: 3.050     
+
+
+Final cluster centroids:
+                                         Cluster#
+Attribute                    Full Data          0
+                              (3772.0)   (3772.0)
+=================================================
+age                                 54         54
+sex                                  F          F
+on thyroxine                         f          f
+query on thyroxine                   f          f
+on antithyroid medication            f          f
+sick                                 f          f
+pregnant                             f          f
+thyroid surgery                      f          f
+I131 treatment                       f          f
+query hypothyroid                    f          f
+query hyperthyroid                   f          f
+lithium                              f          f
+goitre                               f          f
+tumor                                f          f
+hypopituitary                        f          f
+psych                                f          f
+TSH measured                         t          t
+TSH                                1.6        1.6
+T3 measured                          t          t
+T3                                 2.2        2.2
+TT4 measured                         t          t
+TT4                                106        106
+T4U measured                         t          t
+T4U                                  1          1
+FTI measured                         t          t
+FTI                                110        110
+TBG measured                         f          f
+TBG                            missing    missing
+referral source                  other      other
+Class                         negative   negative
+
+
+
+

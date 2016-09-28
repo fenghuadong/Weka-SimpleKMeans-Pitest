@@ -1,0 +1,8 @@
+Sep 28, 2016 8:35:58 PM com.github.fommil.netlib.LAPACK <clinit>
+WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+Sep 28, 2016 8:35:58 PM com.github.fommil.jni.JniLoader liberalLoad
+INFO: successfully loaded C:\Users\ADMINI~1\AppData\Local\Temp\jniloader5854009162823486384netlib-native_ref-win-x86_64.dll
+Sep 28, 2016 8:35:58 PM com.github.fommil.netlib.BLAS <clinit>
+WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+Sep 28, 2016 8:35:58 PM com.github.fommil.jni.JniLoader load
+INFO: already loaded netlib-native_ref-win-x86_64.dll

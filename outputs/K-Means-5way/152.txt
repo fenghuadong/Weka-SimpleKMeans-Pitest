@@ -1,0 +1,58 @@
+
+kMeans
+======
+
+Number of iterations: 2
+Sum of within cluster distances: 6735.358701783573
+
+Initial starting points (canopy):
+
+T2 radius: 2.440     
+T1 radius: 3.050     
+
+Cluster 0: 52.119194,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,5.066211,t,2.013539,t,108.359128,t,0.995152,t,110.447094,f,0,other,negative,{3555} <0,1>
+Cluster 1: 45.542289,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,5.12424,f,2.022577,f,108.679351,f,0.995,f,110.469649,f,0,other,negative,{201} <0,1>
+
+
+Reduced number of distance calculations by using canopies.
+Missing values globally replaced with mean/mode
+
+Final cluster centroids:
+                                         Cluster#
+Attribute                    Full Data          0          1
+                              (3772.0)   (3536.0)    (236.0)
+============================================================
+age                                 54         55       48.5
+sex                                  F          F          F
+on thyroxine                         f          f          f
+query on thyroxine                   f          f          f
+on antithyroid medication            f          f          f
+sick                                 f          f          f
+pregnant                             f          f          f
+thyroid surgery                      f          f          f
+I131 treatment                       f          f          f
+query hypothyroid                    f          f          f
+query hyperthyroid                   f          f          f
+lithium                              f          f          f
+goitre                               f          f          f
+tumor                                f          f          f
+hypopituitary                        f          f          f
+psych                                f          f          f
+TSH measured                         t          t          f
+TSH                                1.6        1.5     5.0868
+T3 measured                          t          t          f
+T3                              2.0135     2.0135     2.0135
+TT4 measured                         t          t          f
+TT4                                106        103   108.3193
+T4U measured                         t          t          f
+T4U                              0.995       0.99      0.995
+FTI measured                         t          t          f
+FTI                                110        108   110.4696
+TBG measured                         f          f          f
+TBG                                  0          0          0
+referral source                  other      other      other
+Class                         negative   negative   negative
+
+
+
+
