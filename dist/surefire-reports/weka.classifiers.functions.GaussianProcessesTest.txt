@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: weka.classifiers.functions.GaussianProcessesTest
 -------------------------------------------------------------------------------
-Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.472 sec
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.485 sec
